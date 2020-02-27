@@ -20,8 +20,24 @@ I'm fancy of this technology.
 - wrting, I like writing some interesting stores of my life
 - doing sports,running makes me happy
 
-### Whats is my dream
+### What is my dream
 
-- I want work in the **first-class Internet company** like Alibaba, BAT, Tencent and so on
-- I want to have a healthy and possitive life
-- I want to be a better man
+1.  I want work in the **first-class Internet company** like Alibaba, BAT, Tencent and so on
+2.  I want to have a healthy and possitive life
+3.  I want to be a better man
+
+### Here is some codes I have learned recently
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>hello world</h1>
+  </body>
+</html>
+```
